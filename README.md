@@ -5,8 +5,8 @@
 <h1 align="center">71317607</h1>
 
 <p align="center">
-  二次元直说，代码也直写。<br/>
-  番剧、Galgame、VOCALOID，还有一些能跑起来的小东西。
+  看番 / 写代码 / 打游戏 / 循环歌单<br/>
+  主页施工中，喜欢什么就往上贴一点。
 </p>
 
 <p align="center">
@@ -16,30 +16,30 @@
   <kbd>J-Pop</kbd>
   <kbd>RPG</kbd>
   <kbd>Roguelike</kbd>
-  <kbd>Python</kbd>
-  <kbd>JavaScript</kbd>
+  <kbd>补番中</kbd>
+  <kbd>修 bug 中</kbd>
 </p>
 
 <br/>
 
 ### 关于
 
-喜欢二次元，也喜欢把想法做成能点、能跑、能用的东西。  
-写代码的时候通常开着歌；卡住了就先换一首。
+二次元是真的喜欢，代码也是真的在写。  
+有想法就开个 repo，能跑就先 commit。
 
-- 二次元：番剧、Galgame、一些好看的图和 BGM
-- 游戏：RPG / Roguelike / 轻松一点的单机
-- 音乐：J-Pop / VOCALOID / 适合循环的歌
-- 代码：能跑起来就先高兴一下
+- 番：看到对味的就追
+- 游戏：Galgame / RPG / Roguelike 都沾一点
+- 歌单：J-Pop / VOCALOID / 夜里能循环的
+- 代码：小工具、前端、自动化，先做出来再说
 
 <br/>
 
-### 正在
+### 最近
 
-- 补番：随缘，遇到喜欢的就看下去
-- 玩：偏单机，喜欢能慢慢沉进去的
-- 听：VOCALOID、J-Pop、适合写代码的歌
-- 写：小工具、前端、自动化，想到什么做什么
+- 补番进度：缓慢但没停
+- 游戏进度：打开很多，通关随缘
+- 歌单状态：一首歌循环到会背
+- 项目状态：想到哪里写到哪里
 
 <br/>
 
@@ -66,8 +66,8 @@
 
 ### 留言
 
-> 好看的画，好听的歌，能跑的代码。  
-> 大概就是这样。
+> 番可以慢慢补，bug 最好今天修。  
+> 修不完就先听歌。
 
 <p align="center">
   <a href="mailto:71317607@qq.com"><img src="https://img.shields.io/badge/Email-71317607%40qq.com-ff8bd2?style=flat-square&logo=gmail&logoColor=white"/></a>
