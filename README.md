@@ -1,12 +1,3 @@
-<!--
-========================================================================
-  ⚠️ 使用前必读 ⚠️
-  1. GitHub 用户名：71317607
-  2. 展示昵称：71317607
-  3. 顶部 banner 图可以换成你喜欢的二次元图（说明见 使用说明.md）
-========================================================================
--->
-
 <!-- ============== 顶部 二次元 Banner ============== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Welcome%20to%2071317607%E2%80%99s%20World&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20%E4%BA%8C%E6%AC%A1%E5%85%83%E7%9A%84%E4%BB%A3%E7%A0%81%E4%B8%96%E7%95%8C%20%E2%9C%A8&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
